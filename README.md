@@ -7,7 +7,7 @@ This Stats App project presents statistical information in two tables. The first
 
 ## Screenshots
 
-![ Screenshot Of page ](https://drive.google.com/file/d/1ADDDhisfUtgroqNh9XF4BgkVOL2y9BOq/view?usp=sharing)
+![ Screenshot Of page ](./Project%20Screenshot.png)
 
 
 Here is a screenshot of the project's homepage.
