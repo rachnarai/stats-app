@@ -8,5 +8,5 @@ This Stats App project presents statistical information in two tables. The first
 ## Screenshots
 
 Here is a screenshot of the project's homepage.
-![ Project Screenshot ](./Project%20Screenshot.png)
-<img src="https://drive.google.com/file/d/1ADDDhisfUtgroqNh9XF4BgkVOL2y9BOq/view?usp=sharing" alt="Alt text">
+![Project Screenshot](https://github.com/rachnarai/stats-app/assets/39161090/22a6e6e1-aa54-4087-8366-531e5500c56f)
+
