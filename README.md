@@ -9,4 +9,4 @@ This Stats App project presents statistical information in two tables. The first
 
 Here is a screenshot of the project's homepage.
 ![ Project Screenshot ](./Project%20Screenshot.png)
-
+<img src="https://drive.google.com/file/d/1ADDDhisfUtgroqNh9XF4BgkVOL2y9BOq/view?usp=sharing" alt="Alt text">
